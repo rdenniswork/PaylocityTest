@@ -54,7 +54,7 @@ namespace ConsolePayrollApp1
             }
 
             // Total Benefit Cost and Pay per Year.
-            return totalBenefitsCost * defaultPayPeriod;
+            return totalBenefitsCost / defaultPayPeriod;
         }
     }
 }

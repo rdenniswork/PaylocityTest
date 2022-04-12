@@ -37,7 +37,7 @@ namespace NUnitTestPayrollApp1
             double payeBenefitCost = payrollBenefitCost.CalculateBenefitCost(employee, employeeDependents);
 
             // Assert.
-            Assert.AreEqual(payeBenefitCost, 26000);
+            Assert.AreEqual(payeBenefitCost, 38.46);
         }
 
         [Test]
@@ -54,7 +54,7 @@ namespace NUnitTestPayrollApp1
             double payeBenefitCost = payrollBenefitCost.CalculateBenefitCost(employee, employeeDependents);
 
             // Assert.
-            Assert.AreEqual(payeBenefitCost, 52000);
+            Assert.AreEqual(payeBenefitCost, 76.92);
         }
 
         [Test]
@@ -69,7 +69,7 @@ namespace NUnitTestPayrollApp1
             double payeBenefitCost = payrollBenefitCost.CalculateBenefitCost(employee, employeeDependents);
 
             // Assert.
-            Assert.AreEqual(payeBenefitCost, 23400);
+            Assert.AreEqual(payeBenefitCost, 34.62);
         }
 
         [Test]
@@ -86,7 +86,7 @@ namespace NUnitTestPayrollApp1
             double payeBenefitCost = payrollBenefitCost.CalculateBenefitCost(employee, employeeDependents);
 
             // Assert.
-            Assert.AreEqual(payeBenefitCost, 46800);
+            Assert.AreEqual(payeBenefitCost, 69.23);
         }
     }
 }

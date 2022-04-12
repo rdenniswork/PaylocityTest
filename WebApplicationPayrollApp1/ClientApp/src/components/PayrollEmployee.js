@@ -98,7 +98,7 @@ export class PayrollEmployee extends Component {
           <br></br>
 
           <br></br>
-          <label className="Generalelements"> Total Benfits Cost: </label>
+            <label className="Generalelements"> Total Benfits Cost Per Pay Period: </label>
           <label id="TotalBenfitsCost" className="Generalelements">$0</label>
           <br></br><br></br>
       </div>

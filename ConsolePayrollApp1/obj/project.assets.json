@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Robert\\source\\repos\\Paylocity\\ConsolePayrollApp1\\ConsolePayrollApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\ConsolePayrollApp1\\ConsolePayrollApp1.csproj",
       "projectName": "ConsolePayrollApp1",
-      "projectPath": "C:\\Users\\Robert\\source\\repos\\Paylocity\\ConsolePayrollApp1\\ConsolePayrollApp1.csproj",
+      "projectPath": "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\ConsolePayrollApp1\\ConsolePayrollApp1.csproj",
       "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Robert\\source\\repos\\Paylocity\\ConsolePayrollApp1\\obj\\",
+      "outputPath": "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\ConsolePayrollApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
