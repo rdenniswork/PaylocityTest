@@ -1,0 +1,10 @@
+C:\Users\Robert\source\repos\Paylocity\ConsolePayrollApp1\bin\Debug\netcoreapp3.1\ConsolePayrollApp1.exe
+C:\Users\Robert\source\repos\Paylocity\ConsolePayrollApp1\bin\Debug\netcoreapp3.1\ConsolePayrollApp1.deps.json
+C:\Users\Robert\source\repos\Paylocity\ConsolePayrollApp1\bin\Debug\netcoreapp3.1\ConsolePayrollApp1.runtimeconfig.json
+C:\Users\Robert\source\repos\Paylocity\ConsolePayrollApp1\bin\Debug\netcoreapp3.1\ConsolePayrollApp1.runtimeconfig.dev.json
+C:\Users\Robert\source\repos\Paylocity\ConsolePayrollApp1\bin\Debug\netcoreapp3.1\ConsolePayrollApp1.dll
+C:\Users\Robert\source\repos\Paylocity\ConsolePayrollApp1\bin\Debug\netcoreapp3.1\ConsolePayrollApp1.pdb
+C:\Users\Robert\source\repos\Paylocity\ConsolePayrollApp1\obj\Debug\netcoreapp3.1\ConsolePayrollApp1.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\Paylocity\ConsolePayrollApp1\obj\Debug\netcoreapp3.1\ConsolePayrollApp1.AssemblyInfo.cs
+C:\Users\Robert\source\repos\Paylocity\ConsolePayrollApp1\obj\Debug\netcoreapp3.1\ConsolePayrollApp1.dll
+C:\Users\Robert\source\repos\Paylocity\ConsolePayrollApp1\obj\Debug\netcoreapp3.1\ConsolePayrollApp1.pdb
