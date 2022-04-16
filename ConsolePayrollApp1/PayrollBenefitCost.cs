@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace ConsolePayrollApp1
 {
@@ -23,7 +22,7 @@ namespace ConsolePayrollApp1
             bool discountFlag = false;
             double discountAmount = 0.1;
             double totalBenefitsCost = 0;
-            double defaultPayPerPeriod = 2000;
+            //double defaultPayPerPeriod = 2000;
             double defaultPayPeriod = 26;
             double benefitsCostPerEmployee = 1000;
             double benefitsCostPerDependent = 500;
@@ -54,7 +53,7 @@ namespace ConsolePayrollApp1
             }
 
             // Total Benefit Cost and Pay per Year.
-            return totalBenefitsCost / defaultPayPeriod;
+            return Math.Round(totalBenefitsCost / defaultPayPeriod, 2);
         }
     }
 }

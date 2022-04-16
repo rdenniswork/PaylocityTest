@@ -38,7 +38,7 @@ export class PayrollEmployee extends Component {
     }
 
     axios
-    .post("http://localhost:52688/Payroll/CalculateBenefitCost", model ,config)
+    .post("http://localhost:52688/Payroll/CalculateBenefitCost", model, config)
     .then(data => 
       { 
         document.getElementById("TotalBenfitsCost").innerHTML = "$" + data.data;
@@ -98,7 +98,7 @@ export class PayrollEmployee extends Component {
           <br></br>
 
           <br></br>
-            <label className="Generalelements"> Total Benfits Cost Per Pay Period: </label>
+          <label className="Generalelements"> Total Benfits Cost Per Pay Period: </label>
           <label id="TotalBenfitsCost" className="Generalelements">$0</label>
           <br></br><br></br>
       </div>

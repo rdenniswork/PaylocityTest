@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace ConsolePayrollApp1
+﻿namespace ConsolePayrollApp1
 {
     class Program
     {
