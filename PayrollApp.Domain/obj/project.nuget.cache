@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ayyQPnPNNXWJP+cUF10/xrn9J9A8DP4uXe3YSAubC5MdppwLB5rDKyKOTJRreMfJcQJQuIGRdw7vNWRHlUkEiw==",
+  "dgSpecHash": "C08jwTjMOFbZxbGumvT+V4L6cAtaY1Zx3lLDBFeig/qyWv0kla1+J/1N6Osw8JTZI/43aXIeEsVyt6PUQkTreQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\PayrollApp.Domain\\PayrollApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.Domain\\PayrollApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

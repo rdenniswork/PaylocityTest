@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\PayrollApp.Data\\PayrollApp.Data.csproj": {}
+    "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.Data\\PayrollApp.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\PayrollApp.Data\\PayrollApp.Data.csproj": {
+    "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.Data\\PayrollApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\PayrollApp.Data\\PayrollApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.Data\\PayrollApp.Data.csproj",
         "projectName": "PayrollApp.Data",
-        "projectPath": "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\PayrollApp.Data\\PayrollApp.Data.csproj",
+        "projectPath": "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.Data\\PayrollApp.Data.csproj",
         "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\PayrollApp.Data\\obj\\",
+        "outputPath": "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,8 +33,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\PayrollApp.Domain\\PayrollApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\PayrollApp.Domain\\PayrollApp.Domain.csproj"
+              "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.Domain\\PayrollApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.Domain\\PayrollApp.Domain.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\PayrollApp.Domain\\PayrollApp.Domain.csproj": {
+    "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.Domain\\PayrollApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\PayrollApp.Domain\\PayrollApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.Domain\\PayrollApp.Domain.csproj",
         "projectName": "PayrollApp.Domain",
-        "projectPath": "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\PayrollApp.Domain\\PayrollApp.Domain.csproj",
+        "projectPath": "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.Domain\\PayrollApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robert\\source\\repos\\PaylocityTest\\PayrollApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Robert\\source\\repos\\Paylocity\\PayrollApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
